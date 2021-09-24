@@ -1,0 +1,13 @@
+/Users/jisoo/Projects/7.05.1/7.05.1/bin/Debug/netcoreapp3.1/7.05.1.deps.json
+/Users/jisoo/Projects/7.05.1/7.05.1/bin/Debug/netcoreapp3.1/7.05.1.runtimeconfig.json
+/Users/jisoo/Projects/7.05.1/7.05.1/bin/Debug/netcoreapp3.1/7.05.1.runtimeconfig.dev.json
+/Users/jisoo/Projects/7.05.1/7.05.1/bin/Debug/netcoreapp3.1/7.05.1.dll
+/Users/jisoo/Projects/7.05.1/7.05.1/bin/Debug/netcoreapp3.1/7.05.1.pdb
+/Users/jisoo/Projects/7.05.1/7.05.1/obj/Debug/netcoreapp3.1/7.05.1.csproj.AssemblyReference.cache
+/Users/jisoo/Projects/7.05.1/7.05.1/obj/Debug/netcoreapp3.1/7.05.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jisoo/Projects/7.05.1/7.05.1/obj/Debug/netcoreapp3.1/7.05.1.AssemblyInfoInputs.cache
+/Users/jisoo/Projects/7.05.1/7.05.1/obj/Debug/netcoreapp3.1/7.05.1.AssemblyInfo.cs
+/Users/jisoo/Projects/7.05.1/7.05.1/obj/Debug/netcoreapp3.1/7.05.1.csproj.CoreCompileInputs.cache
+/Users/jisoo/Projects/7.05.1/7.05.1/obj/Debug/netcoreapp3.1/7.05.1.dll
+/Users/jisoo/Projects/7.05.1/7.05.1/obj/Debug/netcoreapp3.1/7.05.1.pdb
+/Users/jisoo/Projects/7.05.1/7.05.1/obj/Debug/netcoreapp3.1/7.05.1.genruntimeconfig.cache
